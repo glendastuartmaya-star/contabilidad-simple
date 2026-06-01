@@ -462,3 +462,4 @@ if __name__ == "__main__":
     ventana = tk.Tk()
     app = InterfazPrincipal(ventana)
     ventana.mainloop()
+    self.sistema = SistemaExcel("Libro1.xlsx")

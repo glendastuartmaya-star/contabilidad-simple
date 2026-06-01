@@ -1,0 +1,11 @@
+{
+  "transacciones": [],
+  "categorias": [
+    "Salario",
+    "Alimento",
+    "Transporte",
+    "Utilidades",
+    "Entretenimiento",
+    "Otro"
+  ]
+}
